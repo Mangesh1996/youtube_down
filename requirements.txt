@@ -1,0 +1,4 @@
+
+pyt==1.0.5
+pytube==12.1.0
+# pytube:- https://www.youtube.com/watch?v=MsdQmuVzaEA
