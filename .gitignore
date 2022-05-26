@@ -1,2 +1,2 @@
-./save
-./venv/*
+save/*
+venv/*
